@@ -1,0 +1,36 @@
+{
+  "name": "aframe-rain",
+  "version": "1.0.0",
+  "description": "A-Frame rain component",
+  "main": "index.js",
+  "scripts": {
+    "all": "npm run build && npm run build-uglify",
+    "build": "webpack index.js build/aframe-rain.js",
+    "build-uglify": "webpack -p index.js build/aframe-rain.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takahirox/aframe-rain.git"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-vr",
+    "vr",
+    "three",
+    "threejs",
+    "mozvr",
+    "webvr"
+  ],
+  "author": "Takahiro <hogehoge@gachapin.jp> (https://github.com/takahirox)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takahirox/aframe-rain/issues"
+  },
+  "homepage": "https://github.com/takahirox/aframe-rain#readme",
+  "devDependencies": {
+    "aframe": "^0.4.0",
+    "three": "^0.83.0",
+    "webpack": "^1.13.3"
+  }
+}
+
