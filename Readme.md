@@ -8,6 +8,10 @@ rain drop/splash objects by using instancing technique with good performance.
 Closer rain drop height is shorter and further rain drop is more transparent,
 implemented similar to Fog effect technique.
 
+## Demo
+
+[Demo](https://cdn.rawgit.com/takahirox/aframe-rain/v1.0.0/index.html)
+
 ## Properties
 
 ### aframe-outline
