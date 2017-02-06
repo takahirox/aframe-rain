@@ -10,7 +10,7 @@ implemented similar to Fog effect technique.
 
 ## Demo
 
-[Demo](https://cdn.rawgit.com/takahirox/aframe-rain/v1.0.1/index.html)
+[Demo](https://cdn.rawgit.com/takahirox/aframe-rain/v1.0.2/index.html)
 
 ## Properties
 
