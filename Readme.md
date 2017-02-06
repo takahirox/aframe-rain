@@ -40,14 +40,14 @@ To apply Rain effect in a scene, add `rain` attribute in `<a-scene>` like `<a-sc
 </head>
 
 <body>
-  <a-scene scene>
+  <a-scene rain>
     <a-entity position="0 0 10">
       <a-camera></a-camera>
     </a-entity>
 
     <a-entity geometry="primitive:sphere"></a-entity>
 
-      <a-sky color="#222"></a-sky>
+    <a-sky color="#222"></a-sky>
 
     <a-entity light="type:directional;color:#666" position="-10 -10 -10"></a-entity>
   </a-scene>
