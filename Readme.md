@@ -14,7 +14,7 @@ implemented similar to Fog effect technique.
 
 ## Properties
 
-### aframe-outline
+### aframe-rain
 
 | Properties    | type    | Default Value | Description |
 | ------------- | ------- | ------------- | ----------- |
@@ -40,7 +40,7 @@ To apply Rain effect in a scene, add `rain` attribute in `<a-scene>` like `<a-sc
 ```html
 <head>
   <script src="https://cdn.rawgit.com/aframevr/aframe/v0.4.0/dist/aframe-master.min.js"></script>
-  <script src="https://rawgit.com/takahirox/aframe-outline/master/build/aframe-rain.min.js"></script>
+  <script src="https://rawgit.com/takahirox/aframe-rain/master/build/aframe-rain.min.js"></script>
 </head>
 
 <body>
